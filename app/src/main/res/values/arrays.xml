@@ -1,0 +1,8 @@
+<resources>
+    <string-array name="cat_breeds">
+        <item>Сфінкс</item>
+        <item>Мейнкун</item>
+        <item>Британець</item>
+        <!-- Додайте інші породи котів, які ви бажаєте включити -->
+    </string-array>
+</resources>
